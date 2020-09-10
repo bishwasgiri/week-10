@@ -1,0 +1,181 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+ .logo img{
+    float:left;
+    width: 10%;
+    height: 100px;
+    border: 1px solid #c0c0c0;
+
+}
+
+.navigation {
+    padding: 10px 20px;
+    background:#c0c0c0;
+    height: 100px;
+    overflow: hidden;
+}
+.navigation ul {
+    float: right;
+    color: #1167b1;
+    padding:10px;
+
+}
+
+.navigation ul li{
+    float: left;
+    list-style:none;
+
+}
+.navigation ul li a{
+    text-decoration:none;
+    text-align:center;
+    padding:20px;
+}
+
+.navigation ul li a:hover {
+    background: #cacaca;
+}
+
+.right {
+    text-align:right;
+    font-family: cursive;
+}
+
+#mid .first {
+    float:left;
+    width:49%;
+    height: 200px;
+    background:#c0c0c0;
+    margin-bottom:20px;
+    border-radius:5px;
+
+}
+.content {
+    padding: 10px 20px;
+    text-align:justify;
+}
+
+#mid .first img {
+    float:left;
+    width:20%;
+    height:200px;
+    margin-right:20px;
+    border-radius:5px;
+}
+
+
+.clr {
+    clear:both;
+}
+#mid .second {
+    float:right;
+    width:49%;
+    height: 200px;
+    background:#c0c0c0;
+    border-radius:5px;
+}
+
+#mid .second img {
+    float:left;
+    width:20%;
+    height:200px;
+    margin-right:20px;
+    border-radius:5px;
+}
+
+#mid .third {
+    float:left;
+    width:49%;
+    height: 200px;
+    background:#c0c0c0;
+    border-radius:5px;
+}
+
+#mid .third img {
+    float:left;
+    width:20%;
+    height:200px;
+    margin-right:20px;
+    border-radius:5px;
+}
+
+#mid .fourth {
+    float:right;
+    width:49%;
+    height: 200px;
+    background:#c0c0c0;
+    border-radius:5px;
+}
+
+#mid .fourth img {
+    float:left;
+    width:20%;
+    height:200px;
+    margin-right:20px;
+    border-radius:5px;
+}
+
+.one {
+    float:left;
+    width: 15%;
+    height: 250px;
+}
+
+.one p{
+    padding-left:30px;
+}
+
+h4 {
+    padding:10px 20px;
+}
+.one ul {
+    list-style:none;
+
+}
+
+.one ul li {
+    margin-bottom: 10px;
+}
+
+.two {
+    float:right;
+    width: 84%;
+    /* background:green; */
+    height: 250px;
+}
+
+.para {
+    float: left;
+    width:50%;
+    height: 250px;
+    margin: 20px 50px;
+    text-align:justify;
+    
+}
+
+.two img{
+    float : right;
+    width: 40%;
+    height: 250px;
+
+}
+
+
+footer {
+    background: #c0c0c0;
+    height: 100px;
+}
+
+.foot {
+    padding: 35px;
+    text-align:center;
+}
+
